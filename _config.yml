@@ -2,7 +2,7 @@
 title:          Harshdeep
 description:    "Home"
 # baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://harshdeep-05.github.io/tale/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -10,7 +10,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Harshdeep Sahu
-  url:          https://chester.how
+  url:          https://harshdeep-05.github.io/tale/
   email:        harshdeepsahu5@gmail.com
 
 # Build settings
