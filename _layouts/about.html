@@ -1,0 +1,21 @@
+--- layout: default ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="post">
+    <div class="post-info">
+        {% if page.date %}
+        <br>
+        <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time> {% endif %}
+    </div>
+
+    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="post-line"></div>
+
+    {{ content }}
+</div>
+
+<div class="pagination">
+    {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a> {% endif %} {% if page.previous.url %}
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a> {% endif %}
+
+</div>
