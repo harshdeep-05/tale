@@ -1,7 +1,7 @@
 ---
 layout : post
 title : "Shelves"
-permalink: /blog/
+permalink: /shelves/
 ---
 
 ## Books Currently reading * [Muas ]*[If this is a man]
