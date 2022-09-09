@@ -1,7 +1,10 @@
---- layout: default ---
+--- 
+layout: default 
+---
 
 <div class="catalogue">
-    {% for post in site.posts %} {% if post.sticky %} {% include catalogue_item.html sticky='true' %} {% endif %} {% endfor %} {% for post in site.posts %} {% if post.regular %} {% include catalogue_item.html %} {% endif %} {% endfor %}
+    {% for post in site.posts %} {% if post.sticky %} {% include catalogue_item.html sticky='true' %} {% endif %} {% endfor %} {% for post in site.posts %} 
+    {% if post.regular %} {% include catalogue_item.html %} {% endif %} {% endfor %}
 </div>
 
 <div class="pagination">
