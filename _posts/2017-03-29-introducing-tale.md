@@ -1,33 +1,28 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
-comments: true
-tags: Tale
+title: "A Child"
+author: "Harshdeep"
+regular : true
 excerpt_separator: <!--more-->
-sticky: true
-hidden: true
 ---
 
-Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.<!--more-->
+A Child!
+I am a strong boy
+that's what mama says
+but i dont feel so
+lying on bed for days
 
-## Tale features
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
-- Pagination of posts
-- Sticky posts
-- Tags
-- Excerpt management
-- Disqus comments
+my day starts
+up with a hare heart
+and ends
+as the whole world had blends
 
-Head over to the [Example Content]({{ site.baseurl }}/2017-03-16/example-content) post for a showcase of Tale's text formatting features.
+Everyone tries 
+to relish my sighs
+but i am the one 
+who lives like the tasteless bunn
 
-## Browser Support
-Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼
-
-## Download or Contribute
-Tale is publicly hosted on GitHub, so go ahead and download or fork it at the [GitHub repository](https://github.com/chesterhow/tale). If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.
-
-Thanks for checking out Tale!
+I made mumma cry
+when i closed my eyes
+my world had taken its new flight
+and i could see no light
