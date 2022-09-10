@@ -4,6 +4,22 @@ title : "Shelves"
 permalink: /shelves/
 ---
 
-## Books Currently reading * [Muas ]*[If this is a man]
+>Harry Potter made me love with fantasy
+>and there on began my love for reading novels.
+>
 
-## Books recently read * [Clifton Chronicles, by Jeffery Archer] * [Unfu*k yourself, by Gary John Bishop] 
+## Books Currently reading
+* Muas 
+* If this is a man
+
+## Books recently read 
+* Clifton Chronicles, Jeffery Archer 
+* Unfu*k yourself, Gary John Bishop
+* How to talk to anyone, Leil Lowndes
+
+## Books read somewhere in the past
+* ✨Harry Potter✨, J.K Rowling
+* The Martian, Andy Weir
+* Rich Dad Poor Dad, Robert Kiyoski
+* Girl in Room 105, by Chetan Bhagat
+* I too had a love story, by Ravinder Singh
