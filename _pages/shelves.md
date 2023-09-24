@@ -9,8 +9,9 @@ permalink: /shelves/
 >
 
 ## Books Currently reading
-* Muas 
-* If this is a man
+* Muas, Art Spigelman
+* If this is a man, Primo Levi
+* Home in the world, A memoir by Amartya Sen
 
 ## Books recently read 
 * Clifton Chronicles, Jeffery Archer 
