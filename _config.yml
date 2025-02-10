@@ -1,8 +1,8 @@
 # Site settings
 title:          Harshdeep
-description:    "Home"
-# baseurl:        "/tale"
-url:            "https://harshdeep-05.github.io/tale/"
+# description:    "Home"
+# # baseurl:        "/tale"
+url:            "https://harshdeep-05.github.io/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -10,7 +10,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Harshdeep Sahu
-  url:          https://harshdeep-05.github.io/tale/
+  url:          https://harshdeep-05.github.io/
   email:        harshdeepsahu5@gmail.com
 
 # Build settings
