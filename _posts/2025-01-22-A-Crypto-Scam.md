@@ -6,7 +6,7 @@ regular : true
 excerpt_separator: <!--more-->
 ---
 
-_update soon_
+_Making money out of thin air_
 <!--more-->
 
 I have a piece of blank paper. I want to generate millions of dollars from this blank paper. Is it possible? and How?
