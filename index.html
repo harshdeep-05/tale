@@ -1,63 +1,43 @@
----
+--- 
 layout: about
-title: Harshdeep
+title: Harshdeep 
 ---
 
-<body>
-    <h1>Harshdeep</h1>
-    <img src="me.png" alt="Harshdeep" class="profile-pic" style="width: 150px; height: 150px;">
+<head>
+   .profile-pic {
+            margin-top: 20px;
+            border-radius: 50%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
 
-    <p>
-        Scroll to <span class="highlight">Blogs</span> or <span class="highlight">Shelves</span> to discover more! <br> Connect with me here:
-    </p>
+        .social-links {
+            margin-top: 20px;
+        }
 
-    <div class="social-links">
-        <a href="https://linkedin.com/in/harshdeep-sahu" class="fa fa-linkedin">LinkedIn</a>
-        <a href="https://instagram.com/harshdeep__123" class="fa fa-instagram">Instagram</a>
-    </div>
+        .social-links a {
+            font-size: 24px;
+            color: #444;
+            text-decoration: none;
+            margin: 0 15px;
+            transition: transform 0.3s, color 0.3s;
+        }
 
-    <div class="page-views">
-        Page Views: <span id="count">Loading...</span>
-    </div>
+        .social-links a:hover {
+            transform: scale(1.2);
+            color: #0077b5;
+        }
 
-    <script>
-        const url = 'https://api.countapi.xyz/hit/yourusername.github.io/yourrepo';
-
-        fetch(url)
-            .then(response => response.json())
-            .then(data => {
-                document.getElementById('count').innerText = data.value;
-            });
-    </script>
-
-</body>
-
-
-
-<!-- 
-<img src="me.png" alt="Harshdeep" />
-<style>
-    div.sup {
-        text-align: center;
-        line-height: 2.2;
-        font-size: 20px
-    }
-    
-    div.sub {
-        text-align: center;
-        line-height: 1.2;
-        font-size: 10px
-    }
-</style>
+</head>
+<img src="me.png" alt="Harshdeep" class="profile-pic" style="width: 150px; height: 150px;">
 
 <body>
     <br>
     <div align="center">
         <br> Scroll to Blogs or Shelves to discover more!
         <br> Connect with me here -->
-        <a href="https://linkedin.com/in/harshdeep-sahu" class="fa fa-linkedin"></a>&nbsp; &nbsp; &nbsp;
-        <a href="https://instagram.com/harshdeep__123" class="fa fa-instagram"></a>&nbsp; &nbsp; &nbsp;
-        <!-- <a href="https://open.spotify.com/user/" class="fa fa-spotify"></a> -->
+        <div class="social-links">
+            <a href="https://linkedin.com/in/harshdeep-sahu" class="fa fa-linkedin">LinkedIn</a>
+            <a href="https://instagram.com/harshdeep__123" class="fa fa-instagram">Instagram</a>
+        </div>
     </div>
 </body>
- -->
